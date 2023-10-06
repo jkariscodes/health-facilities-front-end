@@ -1,7 +1,7 @@
 import { MapContainer, TileLayer } from "react-leaflet";
 import "./App.css";
 function App() {
-  const position = [0.099, 38.000];
+  const position = [0.099, 38.0];
   const zoom = 7;
 
   return (
