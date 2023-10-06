@@ -1,6 +1,6 @@
 # Health Facilities Front End
 
-This is a React web application designed to show information about health facilities in Kenya. Users can view hospitals, 
+This is a React web application designed to show information about health facilities in Kenya. Users can view hospitals,
 clinics, and other healthcare providers displayed on an interactive map. The full application's code can be accessed [here](https://github.com/jkariscodes/health-facilities).
 
 ## Features
@@ -23,8 +23,7 @@ clinics, and other healthcare providers displayed on an interactive map. The ful
 
 - **State Management:** TBD.
 
-- **Map Integration:**  LeafletJS via the Leaflet and react-leaflet libraries.
-
+- **Map Integration:** LeafletJS via the Leaflet and react-leaflet libraries.
 
 - **Styling:** Cascading Style Sheets (CSS)
 
@@ -41,3 +40,4 @@ clinics, and other healthcare providers displayed on an interactive map. The ful
    ```bash
    git clone https://github.com/your-username/health-facilities-react-app.git
    cd health-facilities-react-app
+   ```
